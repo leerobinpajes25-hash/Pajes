@@ -1,0 +1,10 @@
+#include <iostream>
+
+int main() {
+    std::cout<< "DDDDD\n";
+    std::cout<< "D   D\n";
+    std::cout<< "D   D\n";
+    std::cout<< "D   D\n";
+    std::cout<< "DDDDD\n";
+    
+}
